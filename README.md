@@ -10,6 +10,8 @@ This repository contains my Python practice files as I build my foundation to be
 - ✅ Dictionaries & Sets
 - ✅ Loops
 - ✅ Functions
+- ✅ Oops And Inheritance
+- ✅ Advanced Python🔹
 
 ## My Journey 💡
 I'm learning every day and documenting my code here. This is a part of my comeback mission 🚀 — "Project Phoenix."
